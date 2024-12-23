@@ -1,0 +1,7 @@
+2024-12-22 20:48:47,418 - INFO - Successfully fetched content from https://www.espncricinfo.com/match_url_1
+2024-12-22 20:48:49,367 - INFO - Successfully fetched content from https://www.espncricinfo.com/match_url_2
+2024-12-22 20:48:51,313 - INFO - Successfully fetched content from https://www.espncricinfo.com/team_url_1
+2024-12-22 20:48:53,267 - INFO - Successfully fetched content from https://www.espncricinfo.com/team_url_2
+2024-12-22 20:48:55,300 - INFO - Successfully fetched content from https://www.espncricinfo.com/player_url_1
+2024-12-22 20:48:57,253 - INFO - Successfully fetched content from https://www.espncricinfo.com/player_url_2
+2024-12-22 20:48:57,306 - INFO - Data scraping and saving completed successfully.
